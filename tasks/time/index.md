@@ -1,4 +1,4 @@
-# Cronometrar o tempo gasto com celular
+﻿# Cronometrar o tempo gasto com celular
 
 ## Tarefa
 
@@ -15,6 +15,7 @@
 | Yves | ~3h | [RealizD](http://www.realizd.com/) |
 | Astro | 4h35m - 6h17m | [RealizD](http://www.realizd.com/) |
 | Tati | 5h48m - 8h29m | [QualityTime](http://www.qualitytimeapp.com/)|
+| Rafael | ~2h30m | [Realizd](http://www.realizd.com/) |
 
 
 
@@ -25,3 +26,4 @@
 | Astro | ~2h30m |
 | Leonardo | ~1h30m |
 | Tati | ~6h |
+| Rafael | ~2h30m |
